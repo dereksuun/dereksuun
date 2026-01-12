@@ -8,21 +8,14 @@ control, auditability). Comfortable working with SQL databases and production tr
 currently deepening my experience in Go and distributed systems.
 
 <p align="left">
-    <a href="www.linkedin.com/in/deryck-freitas-babb30250">
+    <a href="https://www.linkedin.com/in/deryck-freitas-backend">
         <img 
             alt="LinkedIn Views"
             title="Visualizações no LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
         />
     </a>
-    <a href="www.linkedin.com/in/deryck-freitas-babb30250">
-        <img 
-            alt="LinkedIn Views"
-            title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
-        />
-    </a>
-        <a href="https://github.com/Dereksuun?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Dereksuun?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
